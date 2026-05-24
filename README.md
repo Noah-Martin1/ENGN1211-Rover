@@ -39,12 +39,7 @@ A visual reference of the simulation setup and results is included below:
 - `protos/` – robot/environment definitions
 - `Media/` – screenshots and documentation of simulation results
 
-## Future Improvements
-- Improve turning accuracy for narrow corridors
-- Tune sensor thresholds for more stable wall tracking
-- Replace artificial delays with more realistic sensor fusion logic
-
-
+To use the simulation, simply open the `mazeWorld.wbt` World in the Webots application.
 
 
 
