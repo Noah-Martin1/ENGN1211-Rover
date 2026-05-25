@@ -31,7 +31,7 @@ The robot successfully completed the maze in simulation. Minor collisions occurr
 ## Media / Documentation
 A visual reference of the simulation setup and results is included below:
 
-![Webots e-puck wall following](IR-left-following-bot/Media/e-puckWallFollowing.pdf)
+![Webots e-puck wall following](IR-left-following-bot/Media/e-puckWallFollowing.png)
 
 ## Repository Structure
 - `controllers/` – e-puck control code (left-wall-following implementation)
