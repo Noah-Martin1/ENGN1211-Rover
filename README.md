@@ -28,7 +28,7 @@ Artificial pauses were introduced to simulate the slower response of the physica
 ## Results
 The robot successfully completed the maze in simulation. Minor collisions occurred in some sections due to the robot’s turning radius being slightly too large for narrow corridor widths. This limitation could be improved through parameter tuning of wheel speeds and turning thresholds.
 
-![Webots e-puck wall following](IR-left-following-bot/Media/e-puckWallFollowing.png)
+[![Webots e-puck wall following](IR-left-following-bot/Media/e-puckWallFollowing.png)](IR-left-following-bot/Media/shortDemo.mp4)
 
 ## Repository Structure
 - `controllers/` – e-puck control code (left-wall-following implementation)
